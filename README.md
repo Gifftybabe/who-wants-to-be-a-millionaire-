@@ -60,6 +60,11 @@ To run this project locally, follow these steps:
 
 ---
 
+#### Deployment:
+The live version of this project can be accessed https://millonaires-game.netlify.app/.
+
+---
+
 #### Data:
 The quiz questions and answer options are stored as an array of objects within the `data` variable in the `App` component.
 
